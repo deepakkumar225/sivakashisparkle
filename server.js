@@ -35,7 +35,7 @@ MIDDLEWARE
 
 app.use(
   cors({
-    origin: "sivakashi-sparkle.vercel.app",
+    origin: "https://sivakashi-sparkal.vercel.app",
     credentials: true,
   })
 );
